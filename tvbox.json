@@ -1,8 +1,16 @@
 {
   "urls": [
     {
-      "name": "王二小放牛娃222",
+      "name": "王二小放牛娃test",
       "url": "http://tvbox.王二小放牛娃.top"
+    }
+  ],
+  "lives": [
+    {
+      "name": "ashlive",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/NebulaFrontier/AshTvConf/refs/heads/main/ashlive.txt",
+      "playerType": 1
     }
   ]
 }
