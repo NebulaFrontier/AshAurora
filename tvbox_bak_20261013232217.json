@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "王二小放牛娃test",
+      "url": "http://test.com"
+    }
+  ],
+  "lives": [
+    {
+      "name": "ashlive",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/NebulaFrontier/AshTvConf/refs/heads/main/ashlive.txt",
+      "playerType": 1
+    }
+  ]
+}
